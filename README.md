@@ -5,14 +5,16 @@
 <a href="https://www.linkedin.com/in/johnaraya/">
   <img src="https://img.shields.io/badge/LinkedIn-John%20Araya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:johnae1205@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/JohnArayaE">
   <img src="https://img.shields.io/badge/GitHub-JohnArayaE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=JohnArayaE&style=flat-square&label=Profile+Views"/>
 
 </div>
 
@@ -24,7 +26,7 @@ Soy **Full Stack Developer** con interés en el desarrollo de aplicaciones web, 
 
 Me gusta trabajar en proyectos completos, conectando diferentes capas de una aplicación: desde la interfaz y la experiencia del usuario hasta el backend, la persistencia de datos y la automatización mediante servicios en la nube.
 
-```javascript
+```javascript id="q0gh5q"
 const john = {
   role: "Full Stack Developer",
   interests: ["Backend", "Frontend", "Databases", "Cloud"],
@@ -56,11 +58,9 @@ const john = {
 
 El sistema permite administrar usuarios y actividades, manejar diferentes roles, realizar inscripciones, guardar favoritos y generar notificaciones automáticas para eventos próximos.
 
----
+### ⚡ Arquitectura del sistema
 
-## ⚡ Arquitectura del sistema
-
-```mermaid
+```mermaid id="290i14"
 flowchart LR
     A["💻 Nuxt + Vue<br/>Frontend"] <-->|REST API| B["⚙️ Node.js + Express<br/>Backend"]
     B <-->|Mongoose| C[("🍃 MongoDB Atlas")]
@@ -70,9 +70,7 @@ flowchart LR
     E -->|Genera recordatorios| C
 ```
 
----
-
-## 🧩 Componentes
+### 🧩 Componentes
 
 |    | Componente           | Tecnologías                                     | Repositorio                                                        |
 | -- | -------------------- | ----------------------------------------------- | ------------------------------------------------------------------ |
@@ -80,9 +78,7 @@ flowchart LR
 | ⚙️ | **Backend API**      | Node.js · Express 5 · MongoDB · Mongoose · JWT  | [Ver Backend](https://github.com/RNVG/ProyectoWeb2_Back)           |
 | ☁️ | **Cloud Automation** | AWS Lambda · Amazon EventBridge · MongoDB Atlas | [Ver Lambda](https://github.com/JohnArayaE/ProyectoWeb2_Lambda)    |
 
----
-
-## ✨ Funcionalidades principales
+### ✨ Funcionalidades principales
 
 * 🔐 Autenticación mediante **JSON Web Tokens**
 * 👥 Roles de **usuario, organizador y administrador**
@@ -109,27 +105,20 @@ flowchart LR
 
 <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,html,css&theme=dark"/>
 
-<br/><br/>
-
 ### Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
-
-<br/><br/>
 
 ### Cloud & Tools
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode&theme=dark"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Amazon_EventBridge-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge\&logo=awslambda\&logoColor=white)
+![Amazon EventBridge](https://img.shields.io/badge/Amazon_EventBridge-8C4FFF?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 
 </div>
 
@@ -143,7 +132,7 @@ En **CommunityHub**, Amazon EventBridge ejecuta periódicamente una función AWS
 
 Esto permite ejecutar procesos independientemente del frontend y del backend principal.
 
-```text
+```text id="q68qit"
 Amazon EventBridge
         │
         ▼
@@ -167,7 +156,7 @@ Amazon EventBridge
 
 📧 **[johnae1205@gmail.com](mailto:johnae1205@gmail.com)**
 
-<br/><br/>
+<br/>
 
 <a href="mailto:johnae1205@gmail.com">
   <img src="https://img.shields.io/badge/Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -181,13 +170,15 @@ Amazon EventBridge
   <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
 
 ### 💻 Building • Learning • Improving
 
 <i>Transformando ideas en aplicaciones, una línea de código a la vez.</i>
-
-<br/><br/>
 
 </div>
 
