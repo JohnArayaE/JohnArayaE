@@ -109,23 +109,27 @@ flowchart LR
 
 <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,html,css&theme=dark"/>
 
+<br/><br/>
+
 ### Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
+
+<br/><br/>
 
 ### Cloud & Tools
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode&theme=dark"/>
 
-<br/>
+<br/><br/>
 
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge\&logo=awslambda\&logoColor=white)
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
 
-![Amazon EventBridge](https://img.shields.io/badge/Amazon_EventBridge-8C4FFF?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+<img src="https://img.shields.io/badge/Amazon_EventBridge-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
 </div>
 
@@ -163,7 +167,7 @@ Amazon EventBridge
 
 📧 **[johnae1205@gmail.com](mailto:johnae1205@gmail.com)**
 
-<br/>
+<br/><br/>
 
 <a href="mailto:johnae1205@gmail.com">
   <img src="https://img.shields.io/badge/Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -177,15 +181,13 @@ Amazon EventBridge
   <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/><br/>
 
 ### 💻 Building • Learning • Improving
 
 <i>Transformando ideas en aplicaciones, una línea de código a la vez.</i>
+
+<br/><br/>
 
 </div>
 
