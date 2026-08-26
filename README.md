@@ -148,58 +148,6 @@ Amazon EventBridge
 
 ---
 
-# 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JohnArayaE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnArayaE&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=JohnArayaE&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🌱 Actualmente
-
-Estoy fortaleciendo mis conocimientos en:
-
-`Full Stack Development` · `Backend Development` · `REST APIs` · `Databases` · `Cloud Computing` · `AWS` · `Software Architecture`
-
----
-
-# 📫 Contacto
-
-<div align="center">
-
-### ¿Quieres contactarme?
-
-📧 **[johnae1205@gmail.com](mailto:johnae1205@gmail.com)**
-
-<br/>
-
-<a href="mailto:johnae1205@gmail.com">
-  <img src="https://img.shields.io/badge/Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/johnaraya/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/JohnArayaE">
-  <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### 💻 Building • Learning • Improving
 
 <i>Transformando ideas en aplicaciones, una línea de código a la vez.</i>
