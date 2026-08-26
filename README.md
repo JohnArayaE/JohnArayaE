@@ -5,16 +5,14 @@
 <a href="https://www.linkedin.com/in/johnaraya/">
   <img src="https://img.shields.io/badge/LinkedIn-John%20Araya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:johnae1205@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/JohnArayaE">
   <img src="https://img.shields.io/badge/GitHub-JohnArayaE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=JohnArayaE&style=flat-square&label=Profile+Views"/>
 
 </div>
 
@@ -58,7 +56,9 @@ const john = {
 
 El sistema permite administrar usuarios y actividades, manejar diferentes roles, realizar inscripciones, guardar favoritos y generar notificaciones automáticas para eventos próximos.
 
-### ⚡ Arquitectura del sistema
+---
+
+## ⚡ Arquitectura del sistema
 
 ```mermaid
 flowchart LR
@@ -70,7 +70,9 @@ flowchart LR
     E -->|Genera recordatorios| C
 ```
 
-### 🧩 Componentes
+---
+
+## 🧩 Componentes
 
 |    | Componente           | Tecnologías                                     | Repositorio                                                        |
 | -- | -------------------- | ----------------------------------------------- | ------------------------------------------------------------------ |
@@ -78,7 +80,9 @@ flowchart LR
 | ⚙️ | **Backend API**      | Node.js · Express 5 · MongoDB · Mongoose · JWT  | [Ver Backend](https://github.com/RNVG/ProyectoWeb2_Back)           |
 | ☁️ | **Cloud Automation** | AWS Lambda · Amazon EventBridge · MongoDB Atlas | [Ver Lambda](https://github.com/JohnArayaE/ProyectoWeb2_Lambda)    |
 
-### ✨ Funcionalidades principales
+---
+
+## ✨ Funcionalidades principales
 
 * 🔐 Autenticación mediante **JSON Web Tokens**
 * 👥 Roles de **usuario, organizador y administrador**
@@ -116,8 +120,11 @@ flowchart LR
 <br/>
 
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge\&logo=awslambda\&logoColor=white)
+
 ![Amazon EventBridge](https://img.shields.io/badge/Amazon_EventBridge-8C4FFF?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 
 </div>
@@ -147,6 +154,34 @@ Amazon EventBridge
 ```
 
 ---
+
+# 📫 Contacto
+
+<div align="center">
+
+### ¿Quieres contactarme?
+
+📧 **[johnae1205@gmail.com](mailto:johnae1205@gmail.com)**
+
+<br/>
+
+<a href="mailto:johnae1205@gmail.com">
+  <img src="https://img.shields.io/badge/Enviar%20correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/johnaraya/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JohnArayaE">
+  <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ### 💻 Building • Learning • Improving
 
